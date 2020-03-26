@@ -30,7 +30,7 @@
 
     var numberOfActivePanels = 4 - $('.hidden').length;
 
-    $(".panel").width(($(window).width() / numberOfActivePanels) - 10);
+    $(".panel").width(($(window).width() / numberOfActivePanels) - 4);
 
  })
 
