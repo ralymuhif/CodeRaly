@@ -1,3 +1,5 @@
 # CodeRaly
 
-CodeRaly is a live code editor for basic Html, Css and Js. 
+CodeRaly is a online code editor for Html, Css and Js.
+
+[Here is the live version](https://ralymuhif.github.io/CodeRaly/ "CodeRaly")
